@@ -1,2 +1,5 @@
-# https-github.com-rfei-it-course-scala
-https://github.com/rfei-it/course-scala
+class EquilateralTriangle(val side: Double)
+    extends RegularConvexNgon {
+    def sides = 3
+  }
+  
